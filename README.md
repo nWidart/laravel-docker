@@ -7,6 +7,7 @@
 | Tags   | PHP version | Features                                                                                                        |
 |--------|-------------| --------------------------------------------------------------------------------------------------------------- |
 | 7.2    | 7.2         | ✅ Everything.                                                                                                  |
+| 7.4    | 7.4         | ✅ Everything.                                                                                                  |
 | 8.1    | 8.1         | ✅ Everything.                                                                                                  |
 | 8.2    | 8.2         | ✅ Everything.                                                                                                  |
 | 8.3    | 8.3         | ⚠️ Everything but using `xdebug-beta` instead of `xdebug-stable`.                                               |
